@@ -1,0 +1,7 @@
+# config file for openfortivpn, see man openfortivpn(1)
+host = ssl.domain.com
+port = 443
+username = username@domain.com
+set-routes = 0
+set-dns = 0
+pppd-use-peerdns = 0
