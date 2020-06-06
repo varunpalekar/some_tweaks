@@ -1,0 +1,5 @@
+session_name: local
+windows:
+  - window_name: local
+    focus: true
+    start_directory: ~/

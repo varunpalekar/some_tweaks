@@ -1,0 +1,6 @@
+[submodule "skel/.zplug"]
+	path = skel/.zplug
+	url = https://github.com/zplug/zplug
+[submodule "skel/.tmux/plugins/tpm"]
+	path = skel/.tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
